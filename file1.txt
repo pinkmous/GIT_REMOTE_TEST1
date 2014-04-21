@@ -1,4 +1,5 @@
 GIT_TEST_I
 ==========
 test-I
-add master
+add mad master
+switch back
