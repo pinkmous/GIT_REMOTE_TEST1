@@ -1,5 +1,4 @@
 GIT_TEST_I
 ==========
 test-I
-add mad master
-test git_origin_master
+add master
